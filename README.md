@@ -93,13 +93,7 @@ http://localhost:5173
 * Backend integration
 * Payment gateway support
 * Order history & user profiles
-
----
-
-## 👨‍💻 Contributors
-
-* **Anupam Singh**
-
+  
 
 ---
 
